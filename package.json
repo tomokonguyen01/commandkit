@@ -1,6 +1,6 @@
 {
   "name": "commandkit",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "The discord.js meta-framework with features such as AI-powered command handler, analytics, feature flags, and more",
   "main": "src/index.ts",
   "scripts": {
